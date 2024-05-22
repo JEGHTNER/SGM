@@ -438,7 +438,7 @@ ELK 스택의 문제: 들어오는 데이터의 급증으로 인해 Elasticsearc
 ```
 
 ## k6
-<img src="./assets/skills/k6-logo.png" width="150" height="150">
+<img src="./assets/skills/K6-logo.png" width="150" height="150">
 
 > k6는 오픈소스로 제공되는 성능 테스트 도구입니다.
 > 
